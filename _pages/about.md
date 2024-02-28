@@ -36,6 +36,7 @@ I am currently an undergraduate student at the School of Electronic and Informat
 - *2022.12* Undergraduate Social Activity Scholarship in Tongji University.
 - *2022.12* Outstanding Student in Tongji University.
 - *2021.12* Undergraduate Social Activity Scholarship in Tongji University.
+
 🎏 Competitions
 - *2023.06* National Innovation Experience Competition for College Students National Third Prize.
 - *2022.11* China Intelligent Robot Combat Competition National First Prize.
