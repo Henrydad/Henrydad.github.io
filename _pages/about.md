@@ -37,7 +37,7 @@ I am currently an undergraduate student at the School of Electronic and Informat
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Edge Intelligent Perception Agents for Smart City Field Application], Zhongpan Zhu, Hanlin Yang, Qiwei Du, Zhipeng Wang, Dekang Zhu, Viswanath Goud Bellam, Fenggui Chang, Gang Li, **ICCCR 2022**
 
 # 🏆 Honors and Awards
 🏅 Honors
