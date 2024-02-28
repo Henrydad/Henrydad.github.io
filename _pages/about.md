@@ -39,7 +39,7 @@ I am currently an undergraduate student at the School of Electronic and Informat
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 🏅 Honors
 - *2022.11* China Intelligent Robot Combat Competition National First Prize.
 - *2022.11* National Undergraduate Electronics Design Contest Third Prize. 
