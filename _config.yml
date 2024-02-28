@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=r-R14vYAAAAJ"
+  googlescholar    :  # "https://scholar.google.com/citations?user=r-R14vYAAAAJ"
   email            : "yanghenry2001@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
