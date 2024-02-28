@@ -22,9 +22,19 @@ I am currently an undergraduate student at the School of Electronic and Informat
 # 📖 Educations
 - *2020.09 - 2024.07 (now)*, [Tongji University](https://www.tongji.edu.cn/), Shanghai,
 
-# 📝 Publications 
+# 🔍 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.04 - 2023.04</div><img src='images/EIPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+This project is built upon the collaboration between the Shanghai Research Institute for Intelligent Autonomous Systems and GAITECH ROBOTICS in research and development. It revolves around the RIAODO intelligent platform and associated components such as smart lamp posts, aiming to create a distributed air pollution monitoring system. The system will deploy and establish a minute-level basic wind field model. It will incorporate functions such as monitoring data fitting within the pollution range, calculation of pollution diffusion centers, GIS visualization platform for outputting three-dimensional positions of pollution sources, microgram-level precise monitoring, wide-scale deployment with coordinated operation, and long-distance information flow interaction capabilities.
+</div>
+</div>
 
+# 📝 Publications 
+📃 Papers
 - Edge Intelligent Perception Agents for Smart City Field Application, Zhongpan Zhu, Hanlin Yang, Qiwei Du, Zhipeng Wang, Dekang Zhu, Viswanath Goud Bellam, Fenggui Chang, Gang Li, **ICCCR 2022**
+
+📚 Patents
+
 
 # 🏆 Honors and Awards
 🏅 Honors
@@ -44,5 +54,8 @@ I am currently an undergraduate student at the School of Electronic and Informat
 - *2022.08* China-US Young Maker Competition Provincial First Prize. 
 - *2022.07* E-commerce “Innovation, Creativity, and Entrepreneurship” Challenge Provincial First Prize. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💼 Societies
+- *2020.09 - 2021.06*, Youth League Committee Officer in Tongji University.
+- *2020.09 - 2024.06*, Class League Secretary in Tongji University.
+- *2022.09 - 2023.06*, Head of the VEX Laboratory in Tongji University
+- *2022.04 - 2023.04*, First Responsible Person of a Shanghai Municipal College Students' Innovation and Entrepreneurship Project
