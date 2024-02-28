@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Hanlin Yang"
+description              : "I am currently an undergraduate student at the School of Electronic and Information Engineering, Tongji University. I am about to pursue a master's degree in the Research Team for Smart Transport Emerging Computing and Perception (STEP) at the School of Transportation Engineering, Tongji University. My advisor is Professor Chenglong Liu."
 repository               : "Henrydad/Henrydad.github.io"
 google_scholar_stats_use_cdn : true
 
