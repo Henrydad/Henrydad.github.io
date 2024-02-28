@@ -40,8 +40,11 @@ I am currently an undergraduate student at the School of Electronic and Informat
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+🏅 Honors
+- *2022.11* China Intelligent Robot Combat Competition National First Prize.
+- *2022.11* National Undergraduate Electronics Design Contest Third Prize. 
+- *2022.08* China-US Young Maker Competition Provincial First Prize. 
+- *2022.07* E-commerce “Innovation, Creativity, and Entrepreneurship” Challenge Provincial First Prize. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
