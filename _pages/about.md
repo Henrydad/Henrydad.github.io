@@ -19,9 +19,8 @@ redirect_from:
 
 I am currently an undergraduate student at the School of Electronic and Information Engineering, Tongji University. I am about to pursue a master's degree in the Research Team for Smart Transport Emerging Computing and Perception (STEP) at the School of Transportation Engineering, Tongji University. My advisor is Professor Chenglong Liu.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+- *2020.09 - 2024.07 (now)*, [Tongji University](https://www.tongji.edu.cn/), Shanghai,
 
 # 📝 Publications 
 
@@ -44,9 +43,6 @@ I am currently an undergraduate student at the School of Electronic and Informat
 - *2022.11* Mathematical Contest in Modeling Provincial First Prize.
 - *2022.08* China-US Young Maker Competition Provincial First Prize. 
 - *2022.07* E-commerce “Innovation, Creativity, and Entrepreneurship” Challenge Provincial First Prize. 
-
-# 📖 Educations
-- *2020.09 - 2024.07 (now)*, [Tongji University](https://www.tongji.edu.cn/), Shanghai,
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
